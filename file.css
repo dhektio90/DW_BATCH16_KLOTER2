@@ -1,0 +1,44 @@
+h1{
+  display:inline;
+  
+}
+.header button{
+  background-color: blue;
+  color: white;
+  float: right;
+  border: 1px solid blue;
+  opacity: 0.4;
+  margin-right: 5px;
+  margin-top: 10px
+}
+button:hover{
+  opacity: 1;
+}
+
+.container{
+  height: 500px;
+  margin-top: 100px;
+}
+.section-title{
+  font-size: 40px;
+  letter-spacing: 4px;
+  text-align: center;
+}
+
+
+
+.contents-item{
+  float: left;
+  background-color: blue;
+  margin-left: 20px;
+  text-align: center;
+  border: 1px solid blue;
+  border-radius: 4px;
+  
+}
+.contents-item p{
+  background-color: white;
+  font-size: 24px;
+  margin-top: 30px;
+  text-align: center;
+}
