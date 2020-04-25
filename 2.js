@@ -9,6 +9,5 @@
         document.write(jumlahHari);
         
         
-        
-        
+    
 </script>
